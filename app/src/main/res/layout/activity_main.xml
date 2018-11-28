@@ -19,34 +19,26 @@
         android:orientation="horizontal">
 
         <Button
+            style="@style/botones"
             android:id="@+id/btn1"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
             android:drawableBottom="@android:drawable/arrow_up_float"
             android:text="@string/btn1" />
 
         <Button
+            style="@style/botones"
             android:id="@+id/button"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
             android:drawableBottom="@android:drawable/arrow_up_float"
             android:text="@string/btn2" />
 
         <Button
+            style="@style/botones"
             android:id="@+id/button2"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
             android:drawableBottom="@android:drawable/arrow_up_float"
             android:text="@string/btn3" />
 
         <Button
+            style="@style/botones"
             android:id="@+id/button3"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
             android:drawableBottom="@android:drawable/arrow_up_float"
             android:text="@string/btn4" />
 
