@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">practica4</string>
+    <string name="btn1">1º botón</string>
+    <string name="btn2">2º botón</string>
+    <string name="btn3">3º botón</string>
+    <string name="btn4">4º botón</string>
 </resources>
