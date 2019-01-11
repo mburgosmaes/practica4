@@ -16,32 +16,40 @@
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_gravity="center"
         android:orientation="horizontal">
 
         <Button
-            style="@style/botones"
             android:id="@+id/btn1"
+            style="@style/botones"
             android:drawableBottom="@android:drawable/arrow_up_float"
             android:text="@string/btn1" />
 
         <Button
+            android:id="@+id/btn2"
             style="@style/botones"
-            android:id="@+id/button"
             android:drawableBottom="@android:drawable/arrow_up_float"
             android:text="@string/btn2" />
 
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
         <Button
+            android:id="@+id/btn3"
             style="@style/botones"
-            android:id="@+id/button2"
             android:drawableBottom="@android:drawable/arrow_up_float"
             android:text="@string/btn3" />
 
         <Button
+            android:id="@+id/btn4"
             style="@style/botones"
-            android:id="@+id/button3"
             android:drawableBottom="@android:drawable/arrow_up_float"
             android:text="@string/btn4" />
-
     </LinearLayout>
 
 </LinearLayout>

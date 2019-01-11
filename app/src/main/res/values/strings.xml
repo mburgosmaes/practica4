@@ -1,7 +1,34 @@
 <resources>
     <string name="app_name">practica4</string>
-    <string name="btn1">1º botón</string>
-    <string name="btn2">2º botón</string>
-    <string name="btn3">3º botón</string>
-    <string name="btn4">4º botón</string>
+    <string name="btn1">Números primos</string>
+    <string name="btn2">Juego de aciertos</string>
+    <string name="btn3">Desplazo de imágenes</string>
+    <string name="btn4">Selección imágenes</string>
+    <string name="portugal">Portugal</string>
+    <string name="argentina">Argentina</string>
+    <string name="australia">Australia</string>
+    <string name="belgica">Bélgica</string>
+    <string name="grecia">Grecia</string>
+    <string name="japon">Japón</string>
+    <string name="reinounido">Reino Unido</string>
+    <string name="rusia">Rusia</string>
+    <string name="mexico">México</string>
+    <string name="italia">Italia</string>
+    <string name="lisboa">Lisboa</string>
+    <string name="aires">Buenos aires</string>
+    <string name="canberra">Canberra</string>
+    <string name="bruselas">Bruselas</string>
+    <string name="atenas">Atenas</string>
+    <string name="tokio">Tokio</string>
+    <string name="londres">Londres</string>
+    <string name="moscu">Moscú</string>
+    <string name="cmexico">Ciudad de México</string>
+    <string name="roma">Roma</string>
+    <string name="pais">Indique un país</string>
+    <string name="ciudad">Indique una ciudad</string>
+    <string name="verificar">Verificar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_desplazar_imagen">activity_desplazarImagen</string>
 </resources>
