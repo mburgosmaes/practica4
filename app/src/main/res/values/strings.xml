@@ -1,33 +1,36 @@
 <resources>
-    <string name="app_name">practica4</string>
-    <string name="btn1">Números primos</string>
-    <string name="btn2">Juego de aciertos</string>
-    <string name="btn3">Desplazo de imágenes</string>
-    <string name="btn4">Selección imágenes</string>
-    <string name="portugal">Portugal</string>
-    <string name="argentina">Argentina</string>
-    <string name="australia">Australia</string>
-    <string name="belgica">Bélgica</string>
-    <string name="grecia">Grecia</string>
-    <string name="japon">Japón</string>
-    <string name="reinounido">Reino Unido</string>
-    <string name="rusia">Rusia</string>
-    <string name="mexico">México</string>
-    <string name="italia">Italia</string>
-    <string name="lisboa">Lisboa</string>
-    <string name="aires">Buenos aires</string>
-    <string name="canberra">Canberra</string>
-    <string name="bruselas">Bruselas</string>
-    <string name="atenas">Atenas</string>
-    <string name="tokio">Tokio</string>
-    <string name="londres">Londres</string>
-    <string name="moscu">Moscú</string>
-    <string name="cmexico">Ciudad de México</string>
-    <string name="roma">Roma</string>
-    <string name="pais">Indique un país</string>
-    <string name="ciudad">Indique una ciudad</string>
-    <string name="verificar">Verificar</string>
-
+    <string name="app_name" translatable="false">practica4</string>
+    <string name="btn1" translatable="false">Números primos</string>
+    <string name="btn2" translatable="false">Juego de aciertos</string>
+    <string name="btn3" translatable="false">Desplazo de imágenes</string>
+    <string name="btn4" translatable="false">Selección imágenes</string>
+    <string name="portugal" translatable="false">Portugal</string>
+    <string name="argentina" translatable="false">Argentina</string>
+    <string name="australia" translatable="false">Australia</string>
+    <string name="belgica" translatable="false">Bélgica</string>
+    <string name="grecia" translatable="false">Grecia</string>
+    <string name="japon" translatable="false">Japón</string>
+    <string name="reinounido" translatable="false">Reino Unido</string>
+    <string name="rusia" translatable="false">Rusia</string>
+    <string name="mexico" translatable="false">México</string>
+    <string name="italia" translatable="false">Italia</string>
+    <string name="lisboa" translatable="false">Lisboa</string>
+    <string name="aires" translatable="false">Buenos Aires</string>
+    <string name="canberra" translatable="false">Canberra</string>
+    <string name="bruselas" translatable="false">Bruselas</string>
+    <string name="atenas" translatable="false">Atenas</string>
+    <string name="tokio" translatable="false">Tokio</string>
+    <string name="londres" translatable="false">Londres</string>
+    <string name="moscu" translatable="false">Moscú</string>
+    <string name="cmexico" translatable="false">Ciudad de México</string>
+    <string name="roma" translatable="false">Roma</string>
+    <string name="pais" translatable="false">Indique un país</string>
+    <string name="ciudad" translatable="false">Indique una ciudad</string>
+    <string name="verificar" translatable="false">Verificar</string>
+    <string name="uno" translatable="false">Uno</string>
+    <string name="dos" translatable="false">Dos</string>
+    <string name="tres" translatable="false">Tres</string>
+    <string name="cuatro" translatable="false">Cuatro</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_activity_desplazar_imagen">activity_desplazarImagen</string>

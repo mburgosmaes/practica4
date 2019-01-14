@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">practica4</string>
+    <string name="btn1" translatable="false">" Nombres premiers"</string>
+    <string name="btn2" translatable="false">"Frapper le jeu "</string>
+    <string name="btn3" translatable="false">" Défilement des images"</string>
+    <string name="btn4" translatable="false">Sélection d\'images</string>
+    <string name="portugal" translatable="false">Portugal</string>
+    <string name="argentina" translatable="false">Argentine</string>
+    <string name="australia" translatable="false">Australie</string>
+    <string name="belgica" translatable="false">Belgique</string>
+    <string name="grecia" translatable="false">Grèce</string>
+    <string name="japon" translatable="false">" Le japon"</string>
+    <string name="reinounido" translatable="false">" Royaume-Uni"</string>
+    <string name="rusia" translatable="false">"La russie "</string>
+    <string name="mexico" translatable="false">" Mexique"</string>
+    <string name="italia" translatable="false">italie</string>
+    <string name="lisboa" translatable="false">Lisbonne</string>
+    <string name="aires" translatable="false">" Buenos Aires"</string>
+    <string name="canberra" translatable="false">Canberra</string>
+    <string name="bruselas" translatable="false">Bruxelles</string>
+    <string name="atenas" translatable="false">Athènes</string>
+    <string name="tokio" translatable="false">Tokyo</string>
+    <string name="londres" translatable="false">Londres</string>
+    <string name="moscu" translatable="false">" Moscou"</string>
+    <string name="cmexico" translatable="false">Ciudad de México</string>
+    <string name="roma" translatable="false">Rome</string>
+    <string name="pais" translatable="false">"Indiquer un pays "</string>
+    <string name="ciudad" translatable="false">" Indiquer une ville"</string>
+    <string name="verificar" translatable="false">Vérifier</string>
+    <string name="uno" translatable="false">Un</string>
+    <string name="dos" translatable="false">deux</string>
+    <string name="tres" translatable="false">Trois</string>
+    <string name="cuatro" translatable="false">Quatre</string>
+</resources>

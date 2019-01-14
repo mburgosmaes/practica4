@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">practica4</string>
+    <string name="btn1" translatable="false">Prime numbers</string>
+    <string name="btn2" translatable="false">" Hitting game"</string>
+    <string name="btn3" translatable="false">Scrolling images</string>
+    <string name="btn4" translatable="false">Selection of images</string>
+    <string name="portugal" translatable="false">Portugal</string>
+    <string name="argentina" translatable="false">Argentina</string>
+    <string name="australia" translatable="false">Australia</string>
+    <string name="belgica" translatable="false">" Belgium"</string>
+    <string name="grecia" translatable="false">Greece</string>
+    <string name="japon" translatable="false">Japan</string>
+    <string name="reinounido" translatable="false">UK</string>
+    <string name="rusia" translatable="false">" Russia"</string>
+    <string name="mexico" translatable="false">" Mexico"</string>
+    <string name="italia" translatable="false">Italy</string>
+    <string name="lisboa" translatable="false">Lisbon</string>
+    <string name="aires" translatable="false">Buenos Aires</string>
+    <string name="canberra" translatable="false">Canberra</string>
+    <string name="bruselas" translatable="false">Brussels</string>
+    <string name="atenas" translatable="false">" Athens"</string>
+    <string name="tokio" translatable="false">Tokyo</string>
+    <string name="londres" translatable="false">London</string>
+    <string name="moscu" translatable="false">Moscow</string>
+    <string name="cmexico" translatable="false">Mexico City</string>
+    <string name="roma" translatable="false">Rome</string>
+    <string name="pais" translatable="false">" Indicate a country"</string>
+    <string name="ciudad" translatable="false">" Indicate a city"</string>
+    <string name="verificar" translatable="false">check</string>
+    <string name="uno" translatable="false">One</string>
+    <string name="dos" translatable="false">Two</string>
+    <string name="cuatro" translatable="false">Four</string>
+    <string name="tres" translatable="false">" three"</string>
+</resources>

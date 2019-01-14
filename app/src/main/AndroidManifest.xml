@@ -18,7 +18,8 @@
         </activity>
         <activity android:name=".NumerosPrimos" />
         <activity android:name=".JuegoAciertos" />
-        <activity android:name=".desplazarImagen"></activity>
+        <activity android:name=".desplazarImagen" />
+        <activity android:name=".seleccionadoImagenes"></activity>
     </application>
 
 </manifest>
