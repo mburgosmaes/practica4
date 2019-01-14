@@ -15,6 +15,7 @@
 
         <Button
             android:id="@+id/btnImagen1"
+            style="@style/botones"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -22,6 +23,7 @@
 
         <Button
             android:id="@+id/btnImagen2"
+            style="@style/botones"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -29,6 +31,7 @@
 
         <Button
             android:id="@+id/btnImagen3"
+            style="@style/botones"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -36,6 +39,7 @@
 
         <Button
             android:id="@+id/btnImagen4"
+            style="@style/botones"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
