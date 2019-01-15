@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/idFrame"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".seleccionadoImagenes">
+
+    <LinearLayout
+        android:id="@+id/idEscudo"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical|center"
+        android:layout_marginLeft="100dp"
+        android:gravity="center_vertical|center"
+        android:orientation="vertical"
+        android:visibility="visible">
+
+        <fragment
+            android:id="@+id/fragment5"
+            android:name="com.example.mario.practica4.seleccionadoImagen1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/idEspada"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="150dp"
+        android:gravity="center_vertical|center"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <fragment
+            android:id="@+id/fragment6"
+            android:name="com.example.mario.practica4.seleccionadoImagen2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/idLanza"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="250dp"
+        android:gravity="center_vertical|center"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <fragment
+            android:id="@+id/fragment7"
+            android:name="com.example.mario.practica4.seleccionadoImagen3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/idYelmo"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="250dp"
+        android:gravity="center_vertical|center"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <fragment
+            android:id="@+id/fragment8"
+            android:name="com.example.mario.practica4.seleccionadoImagen4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <TableLayout
+        android:id="@+id/LayoutBoton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="55dp"
+        android:layout_marginRight="35dp">
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical|center"
+            android:layout_marginLeft="100dp"
+            android:gravity="center_vertical|center">
+
+            <Button
+                android:id="@+id/btnCasco"
+                style="@style/botones"
+                android:onClick="casco"
+                android:text="@string/escudo" />
+
+            <Button
+                android:id="@+id/btnEspada"
+                style="@style/botones"
+                android:onClick="espada"
+                android:text="@string/espada" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="150dp"
+            android:paddingLeft="50dp">
+
+            <Button
+                android:id="@+id/btnLanza"
+                style="@style/botones"
+                android:onClick="lanza"
+                android:text="@string/lanza" />
+
+            <Button
+                android:id="@+id/btnYelmo"
+                style="@style/botones"
+                android:onClick="yelmo"
+                android:text="@string/casco" />
+        </TableRow>
+
+    </TableLayout>
+
+</LinearLayout>
