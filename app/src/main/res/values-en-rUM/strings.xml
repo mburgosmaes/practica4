@@ -28,8 +28,9 @@
     <string name="pais" translatable="false">" Indicate a country"</string>
     <string name="ciudad" translatable="false">" Indicate a city"</string>
     <string name="verificar" translatable="false">check</string>
-    <string name="uno" translatable="false">One</string>
-    <string name="dos" translatable="false">Two</string>
     <string name="cuatro" translatable="false">Four</string>
-    <string name="tres" translatable="false">" three"</string>
+    <string name="escudo" translatable="false">" Shield"</string>
+    <string name="espada" translatable="false">" Sword"</string>
+    <string name="lanza" translatable="false">" Spear"</string>
+    <string name="casco" translatable="false">" Helmet"</string>
 </resources>

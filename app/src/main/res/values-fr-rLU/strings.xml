@@ -28,8 +28,9 @@
     <string name="pais" translatable="false">"Indiquer un pays "</string>
     <string name="ciudad" translatable="false">" Indiquer une ville"</string>
     <string name="verificar" translatable="false">Vérifier</string>
-    <string name="uno" translatable="false">Un</string>
-    <string name="dos" translatable="false">deux</string>
-    <string name="tres" translatable="false">Trois</string>
     <string name="cuatro" translatable="false">Quatre</string>
+    <string name="casco" translatable="false">" Yelmo"</string>
+    <string name="lanza" translatable="false">Lance</string>
+    <string name="espada" translatable="false">Épée</string>
+    <string name="escudo" translatable="false">Bouclier</string>
 </resources>

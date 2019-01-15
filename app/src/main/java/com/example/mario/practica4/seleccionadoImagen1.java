@@ -22,4 +22,8 @@ public class seleccionadoImagen1 extends Fragment {
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_seleccionado_imagen1, container, false);
     }
+
+    public interface OnFragmentInteractionListener {
+        void onFragmentInteraction(Uri uri);
+    }
 }

@@ -27,10 +27,10 @@
     <string name="pais" translatable="false">Indique un país</string>
     <string name="ciudad" translatable="false">Indique una ciudad</string>
     <string name="verificar" translatable="false">Verificar</string>
-    <string name="uno" translatable="false">Uno</string>
-    <string name="dos" translatable="false">Dos</string>
-    <string name="tres" translatable="false">Tres</string>
-    <string name="cuatro" translatable="false">Cuatro</string>
+    <string name="escudo" translatable="false">Escudo</string>
+    <string name="espada" translatable="false">Espada</string>
+    <string name="lanza" translatable="false">Lanza</string>
+    <string name="casco" translatable="false">Yelmo</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_activity_desplazar_imagen">activity_desplazarImagen</string>
