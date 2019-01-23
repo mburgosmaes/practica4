@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -16,13 +16,14 @@
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
         android:layout_gravity="center"
+        android:layout_marginBottom="55dp"
         android:orientation="horizontal">
 
         <Button
             android:id="@+id/btn1"
             style="@style/botones"
-            android:layout_marginRight="100dp"
             android:drawableBottom="@android:drawable/arrow_up_float"
             android:text="@string/btn1" />
 
@@ -32,26 +33,23 @@
             android:drawableBottom="@android:drawable/arrow_up_float"
             android:text="@string/btn2" />
 
-    </LinearLayout>
-
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:orientation="horizontal">
-
         <Button
             android:id="@+id/btn3"
             style="@style/botones"
-            android:layout_marginRight="100dp"
             android:drawableBottom="@android:drawable/arrow_up_float"
             android:text="@string/btn3" />
 
         <Button
             android:id="@+id/btn4"
             style="@style/botones"
+            android:layout_margin="0dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginBottom="0dp"
             android:drawableBottom="@android:drawable/arrow_up_float"
             android:text="@string/btn4" />
+
     </LinearLayout>
 
-</LinearLayout>
+</RelativeLayout>

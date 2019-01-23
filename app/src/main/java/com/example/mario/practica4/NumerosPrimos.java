@@ -24,20 +24,25 @@ public class NumerosPrimos extends AppCompatActivity {
         btnCalcular.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                int num = Integer.parseInt(campoTexto.getText().toString());
 
-                int a=0,i; //Variable acumulador de las divisiones.
+                if(!campoTexto.getText().toString().isEmpty()) {
 
-                for (i=1; i<=num; i++){
-                    if (num % i == 0){
-                        a++;
+
+                    int num = Integer.parseInt(campoTexto.getText().toString());
+
+                    int a = 0, i; //Variable acumulador de las divisiones.
+
+                    for (i = 1; i <= num; i++) {
+                        if (num % i == 0) {
+                            a++;
+                        }
                     }
-                }
-                if (a == 2){
-                    campoResultado.setText("Número primo");
-                }
-                else{
-                    campoResultado.setText("Número no primo");
+                    if (a == 2) {
+                        campoResultado.setText("Número primo");
+                    } else {
+                        campoResultado.setText("Número no primo");
+                    }
+
                 }
             }
         });
